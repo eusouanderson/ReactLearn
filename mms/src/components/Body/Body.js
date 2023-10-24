@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import style from './Body.module.css'; 
-import Frase from './Frase';
+import Frase from './Frase/Frase';
+import style from './Frase/Frase.module.css'; 
+
 
 const Body = () => {
   const [isHovered] = useState(false);

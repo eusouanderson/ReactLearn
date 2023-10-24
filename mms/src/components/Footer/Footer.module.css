@@ -1,0 +1,23 @@
+/* Footer.module.css */
+
+/* Estilos para o container principal */
+.footer {
+    background-color: #2d352c;
+    align-items: center;
+    border: 2px solid #0b0c0b; /* Reduzi a espessura da borda */
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center; /* Alinhamento de texto ao centro */
+  }
+  
+  .footer img {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 100px; 
+    align-items: center;
+  }
+  

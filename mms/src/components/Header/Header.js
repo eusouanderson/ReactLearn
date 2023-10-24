@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Header.module.css'; // Certifique-se de criar o arquivo de estilo Header.css
+import styles from './Header.module.css'; 
 
 function Header() {
   return (
@@ -9,9 +9,9 @@ function Header() {
         <h1>M M S</h1>
         <nav>
           <ul>
-            <li><a href="#">Página Inicial</a></li>
-            <li><a href="#">Recursos</a></li>
-            <li><a href="#">Contato</a></li>
+            <li><a href=" ">Página Inicial</a></li>
+            <li><a href=" ">Recursos</a></li>
+            <li><a href=" ">Contato</a></li>
           </ul>
         </nav>
       </div>

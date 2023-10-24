@@ -1,0 +1,44 @@
+/* Frase.module.css */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.futuristic_frase {
+  color: #eceeed;
+  letter-spacing: 1px;
+  border: 1px solid #585a58;
+  box-shadow: 0 0 20px rgba(42, 250, 0, 0.5);
+  border-radius: 15px;
+  transform: scale(1.02);
+  font-family: 'Raleway', sans-serif;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: 'Orbitron', sans-serif;
+  color: #00ff00;
+  padding: 20px;
+}
+
+.subsubtitle {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px;
+  
+}
+
+.description {
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  padding: 20px;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  padding: 20px;
+}
