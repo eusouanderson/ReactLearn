@@ -1,0 +1,55 @@
+/* Importar a fonte Orbitron */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.futuristic_header {
+  background-color: #111;
+  color: #00ff00;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif; 
+  border-radius: 5px;
+}
+
+.futuristic_header {
+    background-color: #111; 
+    color: #4e06ac; 
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%; 
+    padding: 0 10px; 
+    box-sizing: border-box; 
+  }
+  
+  .header_content h1 {
+    font-size: 2rem;
+    margin: 0;
+    text-transform: uppercase;
+  }
+  
+  .header_content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .header_content li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .header_content a {
+    text-decoration: none;
+    color: #00ff00; 
+    font-weight: bold;
+  }
+  
+  .header_content a:hover {
+    text-decoration: underline; 
+  }
+  
