@@ -4,11 +4,13 @@
 
 .futuristic_frase {
   color: #eceeed;
+  background-color: #2d352c;
+  width: 100%;
   letter-spacing: 1px;
   border: 1px solid #585a58;
   box-shadow: 0 0 20px rgba(42, 250, 0, 0.5);
   border-radius: 15px;
-  transform: scale(1.02);
+  padding: 20px;
   font-family: 'Raleway', sans-serif;
 }
 

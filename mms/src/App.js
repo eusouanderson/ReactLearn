@@ -11,9 +11,9 @@ function App() {
   return (
     
     <div className="App">
-      <Header></Header>
-      <Body></Body>
-      <Footer></Footer>
+      <Header/>
+      <Body/>
+      <Footer/>
     </div>
   );
 }

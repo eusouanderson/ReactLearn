@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "MMS",
+  "description": "MMS",
   "icons": [
     {
       "src": "favicon.ico",
