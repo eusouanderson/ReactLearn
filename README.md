@@ -24,7 +24,7 @@ npm start
 
 
 ## Estrutura do Projeto
-
+```
 mms/
   ├── src/
   │   ├── components/
@@ -42,6 +42,6 @@ mms/
   ├── package.json
   ├── README.md
   └── ...
-
-![Descrição da imagem](https://github.com/eusouanderson/react-learn/master/mms/img.png)
+```
+![Descrição da imagem](https://github.com/eusouanderson/react-learn/blob/main/mms/img.png)
 
