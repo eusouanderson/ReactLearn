@@ -16,8 +16,8 @@ Pagina feita em react .
 Descreva como instalar as dependências do projeto e como configurá-lo. Você pode incluir comandos para clonar o repositório, instalar as dependências e iniciar o aplicativo.
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/eusouanderson/react-learn.git
+cd mms
 npm install
 npm start
 ```
